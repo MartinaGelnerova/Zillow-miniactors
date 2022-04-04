@@ -1,5 +1,5 @@
 {
-    "name": "Zillow URL scraper",
+    "name": "Zillow Rent scraper",
     "version": "0.0.1",
     "type": "module",
     "dependencies": {
