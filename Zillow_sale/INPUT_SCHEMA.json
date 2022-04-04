@@ -1,0 +1,24 @@
+{
+  "title": "Zillow.com scraper input schema",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+    "search": {
+      "title": "Search",
+      "type": "string",
+      "editor": "textarea",
+      "prefill": "Los Angeles",
+      "description": "Query to search on Zillow.com"
+    },
+    "maxItems": {
+      "title": "Max items",
+      "type": "integer",
+      "minimum": 0,
+      "prefill": 100,
+      "description": "Limit of home detail pages to be scraped"
+    }
+  },
+  "required": [
+    "search"
+  ]
+}
