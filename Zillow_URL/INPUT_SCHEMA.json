@@ -1,0 +1,26 @@
+{
+  "title": "Zillow.com scraper input schema",
+  "type": "object",
+  "schemaVersion": 1,
+  "properties": {
+      "startUrls": {
+          "title": "Start URLs",
+          "type": "array",
+          "editor": "requestListSources",
+          "description": "List of URLs that will be crawled.",
+          "prefill": [
+              {
+            "url": "https://www.zillow.com/homes/for_sale/Los-Angeles,-CA_rb/"
+            }
+          ]
+        },
+        "maxItems": {
+          "title": "Max items",
+          "type": "integer",
+          "minimum": 0,
+          "prefill": 100,
+          "description": "Limit of home detail pages to be scraped"
+        }
+  },
+  "required": ["startUrls"]
+}
