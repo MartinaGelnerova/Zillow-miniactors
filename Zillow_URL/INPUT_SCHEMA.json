@@ -10,7 +10,7 @@
           "description": "List of URLs that will be crawled.",
           "prefill": [
               {
-            "url": "https://www.zillow.com/homes/for_sale/Los-Angeles,-CA_rb/"
+            "url": "https://www.zillow.com/los-angeles-ca/3-_beds/2.0-_baths"
             }
           ]
         },
