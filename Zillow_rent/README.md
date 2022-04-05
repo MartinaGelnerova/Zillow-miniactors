@@ -1,7 +1,7 @@
-## What does Zillow URL scraper do?
-Zillow URL scraper will enable you to get more data from [Zillow.com](https://zillow.com) than the official Zillow.com API.
+## What does Zillow Rent scraper do?
+Zillow Rent scraper will enable you to get more data about rent offers from [Zillow.com](https://zillow.com) than the official Zillow.com API.
 
-Zillow URL scraper can scrape:
+Zillow Rent scraper can scrape:
 - address
 - number of bedrooms and bathrooms
 - price
@@ -21,12 +21,12 @@ Here are just some of the ways you could use that data:
 If you would like more inspiration on how scraping Zillow.com could help your business or organization, check out our [Real Estate](https://apify.com/industries).
 
 ## How to scrape Zillow.com
-It's easy to scrape [Zillow.com](https://zillow.com) with Zillow URL scraper. Just follow these few steps and you'll get your data in a few minutes.
+It's easy to scrape [Zillow.com](https://zillow.com) with Zillow Rent scraper. Just follow these few steps and you'll get your data in a few minutes.
 
 1. Click on Try for free.
-2. Go to Zillow.com, set up any filter you want (for example location, price range, number of bedrooms and bathrooms), copy the URL and paste it to the actor. This can be done for multiple filters/URLs. 
+2. Fill in Search specification (location - city name and/or zip code). 
 3. Click on Run.
-4. When Zillow URL scraper has finished, preview or download your data from the Dataset tab.
+4. When Zillow Rent scraper has finished, preview or download your data from the Dataset tab.
 
 ## Do you need more data?
 Go to [Zillow Real Estate Scraper](https://apify.com/petr_cermak/zillow-api-scraper). It is more complex to set up but it also allows you to try different set-up combinations as well as get more details on properties.
@@ -34,15 +34,14 @@ Go to [Zillow Real Estate Scraper](https://apify.com/petr_cermak/zillow-api-scra
 ## How much will it cost to scrape Zillow.com?
 The average cost of using the Zillow Scraper is about $0.25 for every 2,000 results scraped.
 
-Apify gives you with $5 free usage credits every month on the Apify Free plan. You can get 40,000 results per month from Zillow URL scraper for that, so those 40,000 results will be completely free!
+Apify gives you with $5 free usage credits every month on the Apify Free plan. You can get 40,000 results per month from Zillow Rent scraper for that, so those 40,000 results will be completely free!
 
 But if you need to get more data regularly from Zillow.com, you should grab an Apify subscription. We recommend our $49/month Personal plan - you can get up to 400,000 every month with the $49 monthly plan! 
 
 Or get 4,000,000 results for $499 with the Team plan - wow!
 
 ## Results
-Example results of searching URL on Zillow.com: ![Zillow URL scraper dataset]()
-See complete dataset here: https://api.apify.com/v2/datasets/oM1g2H22wVkkASFvU/items?clean=true&format=html.
+For example results of searching rent offers on Zillow.com, see dataset here: https://api.apify.com/v2/datasets/SXsUVYxh3ZQmMv0a1/items?clean=true&format=json.
 
 ## Tips for scraping Zillow.com
 - Tip 1

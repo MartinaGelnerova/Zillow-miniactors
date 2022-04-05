@@ -41,8 +41,7 @@ But if you need to get more data regularly from Zillow.com, you should grab an A
 Or get 4,000,000 results for $499 with the Team plan - wow!
 
 ## Results
-Example results of searching URL on Zillow.com: ![Zillow URL scraper dataset]()
-See complete dataset here: https://api.apify.com/v2/datasets/oM1g2H22wVkkASFvU/items?clean=true&format=html.
+For example results of searching URL on Zillow.com, see dataset here: https://api.apify.com/v2/datasets/uuk5319dMQ88OEtFn/items?clean=true&format=json.
 
 ## Tips for scraping Zillow.com
 - Tip 1

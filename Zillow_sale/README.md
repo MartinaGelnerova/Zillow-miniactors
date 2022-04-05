@@ -1,7 +1,7 @@
 ## What does Zillow Sale scraper do?
-Zillow Sale scraper will enable you to get more data from [Zillow.com](https://zillow.com) than the official Zillow.com API.
+Zillow Sale scraper will enable you to get more data on sale offers from [Zillow.com](https://zillow.com) than the official Zillow.com API.
 
-Zillow URL scraper can scrape:
+Zillow Sale scraper can scrape:
 - address
 - number of bedrooms and bathrooms
 - price
@@ -34,15 +34,14 @@ Go to [Zillow Real Estate Scraper](https://apify.com/petr_cermak/zillow-api-scra
 ## How much will it cost to scrape Zillow.com?
 The average cost of using the Zillow Scraper is about $0.25 for every 2,000 results scraped.
 
-Apify gives you with $5 free usage credits every month on the Apify Free plan. You can get 40,000 results per month from Zillow URL scraper for that, so those 40,000 results will be completely free!
+Apify gives you with $5 free usage credits every month on the Apify Free plan. You can get 40,000 results per month from Zillow Sale scraper for that, so those 40,000 results will be completely free!
 
 But if you need to get more data regularly from Zillow.com, you should grab an Apify subscription. We recommend our $49/month Personal plan - you can get up to 400,000 every month with the $49 monthly plan! 
 
 Or get 4,000,000 results for $499 with the Team plan - wow!
 
 ## Results
-Example results of Sale searching on Zillow.com: ![Zillow Sale scraper dataset]()
-See complete dataset here: XXX https://api.apify.com/v2/datasets/oM1g2H22wVkkASFvU/items?clean=true&format=html.
+For example results of Sale searching on Zillow.com, see dataset here: https://api.apify.com/v2/datasets/MIz5vvOiGMrt3JC7M/items?clean=true&format=json.
 
 ## Tips for scraping Zillow.com
 - Tip 1
